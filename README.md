@@ -4,6 +4,6 @@
 
 ### Tools
     1. ThreeJS
-    2. GSAP
-    3. ???
+    2. Netlify
+    3. SASS
     
